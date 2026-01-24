@@ -19,12 +19,14 @@ Jupyter Notebook version, used for interactive experiments and visualization.
 ## How to run
 ```bash
 Open experiment01.ipynb directly in VS Code and run cells interactively.
+```
 
 ## Environment Setup (Recommended)
 ```bash
 conda create -n pyfund python=3.10.12
 conda activate pyfund
 pip install ipykernel jupyterlab numpy matplotlib
+```
 
 ### Objective Function
 f(x) = x^2 + 3 sin(x),  x ∈ [-10, 10]
