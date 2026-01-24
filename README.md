@@ -11,3 +11,4 @@ This repository contains basic Python scripts and experiments.
 ## How to run
 ```bash
 python test01.py
+python test02.py
