@@ -14,7 +14,7 @@ This repository contains basic Python scripts and experiments.
 - test01.py: basic Python test script
 
 ## Progress Log
-- 26.1.24: 搭建github仓库
+- 26.1.24: 搭建github仓库,一元函数找最小值模型
 
 ## How to run
 ```bash
