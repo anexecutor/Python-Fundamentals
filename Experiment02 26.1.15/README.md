@@ -40,4 +40,4 @@ f(x) = x^2 + 3 sin(x),  x ∈ [-10, 10]
 ### Result
 The surrogate-guided solution achieves better performance than random sampling.
 
-![Experiment 02 Result](Experiment02 26.1.15/result/output.png)
+![Experiment 02 Result](result/output.png)
