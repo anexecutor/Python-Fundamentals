@@ -7,3 +7,5 @@ def func():
         print("hello",end=' ')
 
 func(int(input("输入一个整数：")))
+
+##尝试用vs code上传
