@@ -42,5 +42,10 @@ f(x) = x^2 + 3 sin(x) + noise ,  x ∈ [-10, 10]
 - High-degree models overfit noisy observations.
 - Moderate complexity achieves better generalization.
 
+expriment03:
 ![Experiment 03 Result1](result/output1.png)
 ![Experiment 03 Result1](result/output2.png)
+
+experiment03.1:
+![Experiment 03 Result1](result/output3.png)
+![Experiment 03 Result1](result/output4.png)
