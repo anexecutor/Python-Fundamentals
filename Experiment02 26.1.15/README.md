@@ -18,7 +18,7 @@ Jupyter Notebook version, used for interactive experiments and visualization.
 
 ## How to run
 ```bash
-Open experiment01.ipynb directly in VS Code and run cells interactively.
+Open experiment02.ipynb directly in VS Code and run cells interactively.
 ```
 
 ## Environment Setup (Recommended)
