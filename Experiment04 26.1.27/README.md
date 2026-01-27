@@ -43,13 +43,17 @@ f(x) = x^2 + 5 sin(x) + noise ,  x ∈ [-5, 5]
 Regularization effectively reduces overfitting and improves model generalization.
 
 Noisy Data:
+
 ![Experiment 05 Result1](result/output1.png)
 
 普通多项式回归（过拟合）：
+
 ![Experiment 05 Result2](result/output2.png)
 
 Ridge回归（L2正则）
+
 ![Experiment 05 Result2](result/output3.png)
 
 Lasso回归（L1正则）:
+
 ![Experiment 05 Result2](result/output4.png)
