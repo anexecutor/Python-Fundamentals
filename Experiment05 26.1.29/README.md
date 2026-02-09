@@ -1,7 +1,7 @@
 
 # Python Fundamentals
 
-## Experiment 04: Bias–Variance Tradeoff in Polynomial Regression
+## Experiment 05: Bias–Variance Tradeoff in Polynomial Regression
 
 In previous experiments, high-degree polynomial regression was observed to exhibit strong fitting ability but unstable behavior under different data samples.This experiment aims to systematically investigate this phenomenon from a statistical perspective.
 
