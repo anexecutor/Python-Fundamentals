@@ -46,4 +46,10 @@ f(x) = sin(3x) + noise ,  x ∈ [0, 2]
 - Stable convergence under noise
 - Fewer real evaluations
 
+
+np.random.seed(0):
 ![Experiment 06 Result1](result/output.png)
+
+
+np.random.seed(3):
+![Experiment 06 Result2](result/output3.png)
